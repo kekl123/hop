@@ -1,0 +1,9 @@
+.moreinfo{
+    columns: auto 2;
+}
+.center{
+    text-align: center;
+}
+body{
+    background-color: rgb(80, 103, 123);
+}
